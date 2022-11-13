@@ -21,10 +21,10 @@ rust_tokenizers = "7.0"
 serde = "1.0"
 strum = "0.23"
 strum_macros = "0.23"
-tch = "0.6"
+tch = "0.9"
 thiserror = "1.0"
 tokenizers = "0.11"
-torch-sys = "0.6"
+torch-sys = "0.9"
 
 [dev-dependencies]
 criterion = "0.3"
